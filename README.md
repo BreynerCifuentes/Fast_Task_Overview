@@ -15,7 +15,14 @@ Fast Task permite:
 
 ## Capturas de Pantalla
 ### 1. Fotos de la app
-![Inicio](ruta/a/la/imagen1.png)
+![Inicio](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto.PNG)
+![Create account](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%202.PNG)
+![Login](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%203.PNG)
+![Board](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%204.PNG)
+![View task info](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%205.PNG)
+![Settings](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%206.PNG)
+![Colors](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%208.PNG)
+![Board another color](https://github.com/BreynerCifuentes/Fast_Task_Overview/blob/main/foto%207.PNG)
 
 
 ## ¿Cómo funciona?
